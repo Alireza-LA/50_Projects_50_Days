@@ -1,12 +1,3 @@
-
----
-
-## 📝 Step 2: Update the **main repository README.md**
-
-Now edit your main repo’s `README.md` (at root) so it includes this new project.  
-Use this version — it includes all three projects and is ready to replace your current main README:
-
-```markdown
 # 🧪 50 Projects in 50 Days
 
 A collection of **mini frontend projects** built with HTML, CSS, and JavaScript — inspired by the *"50 Projects in 50 Days"* challenge.  
