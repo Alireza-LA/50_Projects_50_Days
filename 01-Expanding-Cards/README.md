@@ -1,4 +1,4 @@
-🔳 Expanding Cards  
+🔄 Expanding Cards  
 An interactive image gallery built with HTML, CSS, and JavaScript.  
 Click on a card to expand it and reveal more content with smooth transitions.
 
