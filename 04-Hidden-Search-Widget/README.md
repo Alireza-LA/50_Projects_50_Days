@@ -21,7 +21,7 @@ Click the search icon to smoothly expand the input field and focus automatically
 ---
 
 🚀 Live Demo
-👉 [View Project Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search/)
+👉 [View Project Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search-Widget/)
 
 ---
 
