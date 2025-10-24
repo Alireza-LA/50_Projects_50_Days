@@ -26,7 +26,8 @@ Click the search icon to smoothly expand the input field and focus automatically
 ---
 
 🗂️ Folder Structure
-  
+
+  ```bash
   04-Hidden-Search/
   │
   ├── index.html
