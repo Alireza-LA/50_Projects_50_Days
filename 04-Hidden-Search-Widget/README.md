@@ -26,9 +26,10 @@ Click the search icon to smoothly expand the input field and focus automatically
 ---
 
 🗂️ Folder Structure
-04-Hidden-Search/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+  
+  04-Hidden-Search/
+  │
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  └── README.md
