@@ -43,7 +43,9 @@ Each project is small, visual, and interactive — perfect for learning by doing
 | 1  | Expanding Cards        | [View Live](https://alireza-la.github.io/50_Projects_50_Days/01-Expanding-Cards/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/01-Expanding-Cards) |
 | 2  | Progress Steps         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/02-Progress-Steps/)  | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/02-Progress-Steps) |
 | 3  | Rotating Navigation    | [View Live](https://alireza-la.github.io/50_Projects_50_Days/03-Rotating-Navigation/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/03-Rotating-Navigation) |
-| 4  | Hidden Search          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search-Widget/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/04-Hidden-Search-Widget) |
+| 4  | Hidden Search Widget   | [View Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search-Widget/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/04-Hidden-Search-Widget) |
+| 5  | Blurry Loading         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/05-Blurry-Loading/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/05-Blurry-Loading) |
+| 6  | Scroll Animation       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/06-Scroll-Animation/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/06-Scroll-Animation) |
 
 *(More projects will be added as they are completed.)*
 
