@@ -1,6 +1,6 @@
 # 🧪 50 Projects in 50 Days
 
-A collection of **mini frontend projects** built with HTML, CSS, and JavaScript — inspired by the *"50 Projects in 50 Days"* challenge.  
+A collection of **mini frontend projects** built with HTML, CSS, and JavaScript — inspired by the _"50 Projects in 50 Days"_ challenge.  
 Each project is stored in its own folder and focuses on mastering a specific UI pattern or interactive concept.
 
 ---
@@ -15,13 +15,13 @@ Each project is stored in its own folder and focuses on mastering a specific UI 
 ---
 
 ## 🧩 About This Repository
-This repository serves as my **hands-on frontend learning journey**, where I build 50 small, focused projects to:
-- Strengthen my HTML, CSS, and JavaScript fundamentals  
+This repository serves as my **hands-on frontend learning journey**, where I build small, focused projects to:
+- Strengthen HTML, CSS, and JavaScript fundamentals  
 - Learn UI design patterns and microinteractions  
-- Improve code structure and reusability  
-- Build consistency and discipline in daily development  
+- Improve code organization and reusability  
+- Build consistency and discipline in daily development
 
-Each project is small, visual, and interactive — perfect for learning by doing.
+Each project is visual and interactive — perfect for learning by doing.
 
 ---
 
@@ -38,14 +38,15 @@ Each project is small, visual, and interactive — perfect for learning by doing
 
 ## 🧱 Project List (Live Demos)
 
-| #  | Project Name          | Live Demo | Repository Folder |
-|----|------------------------|-----------|-------------------|
-| 1  | Expanding Cards        | [View Live](https://alireza-la.github.io/50_Projects_50_Days/01-Expanding-Cards/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/01-Expanding-Cards) |
-| 2  | Progress Steps         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/02-Progress-Steps/)  | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/02-Progress-Steps) |
-| 3  | Rotating Navigation    | [View Live](https://alireza-la.github.io/50_Projects_50_Days/03-Rotating-Navigation/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/03-Rotating-Navigation) |
-| 4  | Hidden Search Widget   | [View Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search-Widget/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/04-Hidden-Search-Widget) |
-| 5  | Blurry Loading         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/05-Blurry-Loading/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/05-Blurry-Loading) |
-| 6  | Scroll Animation       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/06-Scroll-Animation/) | [Source Code](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/06-Scroll-Animation) |
+| #  | Project Name            | Live Demo | Repository Folder |
+|----|-------------------------|-----------|-------------------|
+| 1  | Expanding Cards         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/01-Expanding-Cards/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/01-Expanding-Cards) |
+| 2  | Progress Steps          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/02-Progress-Steps/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/02-Progress-Steps) |
+| 3  | Rotating Navigation     | [View Live](https://alireza-la.github.io/50_Projects_50_Days/03-Rotating-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/03-Rotating-Navigation) |
+| 4  | Hidden Search Widget    | [View Live](https://alireza-la.github.io/50_Projects_50_Days/04-Hidden-Search-Widget/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/04-Hidden-Search-Widget) |
+| 5  | Scroll Animation        | [View Live](https://alireza-la.github.io/50_Projects_50_Days/05-Scroll-Animation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/05-Scroll-Animation) |
+| 6  | Blurry Loading          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/06-Blurry-Loading/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/06-Blurry-Loading) |
+| 7  | Split Landing Page      | [View Live](https://alireza-la.github.io/50_Projects_50_Days/07-Split-Landing-Page/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/07-Split-Landing-Page) |
 
 *(More projects will be added as they are completed.)*
 
@@ -53,7 +54,7 @@ Each project is small, visual, and interactive — perfect for learning by doing
 
 ## 📬 Contact
 
-👤 **Alireza Alenabi**  
+**Alireza Alenabi**  
 - GitHub: [Alireza-LA](https://github.com/Alireza-LA)  
 - Frontend Mentor: [Alireza-LA](https://www.frontendmentor.io/profile/Alireza-LA)
 
