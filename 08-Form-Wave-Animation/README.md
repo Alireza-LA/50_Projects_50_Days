@@ -28,7 +28,7 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🚀 Live Demo
-👉 [View Project](https://alireza-la.github.io/50_Projects_50_Days/08-Form-Input-Wave/)
+👉 [View Project](https://alireza-la.github.io/50_Projects_50_Days/08-Form-Wave-Animation/)
 
 ---
 
