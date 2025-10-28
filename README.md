@@ -47,7 +47,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 5  | Scroll Animation        | [View Live](https://alireza-la.github.io/50_Projects_50_Days/05-Scroll-Animation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/05-Scroll-Animation) |
 | 6  | Blurry Loading          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/06-Blurry-Loading/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/06-Blurry-Loading) |
 | 7  | Split Landing Page      | [View Live](https://alireza-la.github.io/50_Projects_50_Days/07-Split-Landing-Page/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/07-Split-Landing-Page) |
-| 8  | Form Input Wave         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/08-Form-Input-Wave/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/08-Form-Input-Wave) |
+| 8  | Form Input Wave         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/08-Form-Wave-Animation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/08-Form-Wave-Animation) |
 | 9  | Sound Board             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/09-Sound-Board/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/09-Sound-Board) |
 
 *(More projects will be added as they are completed.)*
