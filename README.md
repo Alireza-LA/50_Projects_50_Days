@@ -36,8 +36,6 @@ Each project is visual and interactive — perfect for learning by doing.
 
 ---
 
-## 🧱 Project List (Live Demos)
-
 | #  | Project Name            | Live Demo | Repository Folder |
 |----|-------------------------|-----------|-------------------|
 | 1  | Expanding Cards         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/01-Expanding-Cards/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/01-Expanding-Cards) |
@@ -49,6 +47,10 @@ Each project is visual and interactive — perfect for learning by doing.
 | 7  | Split Landing Page      | [View Live](https://alireza-la.github.io/50_Projects_50_Days/07-Split-Landing-Page/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/07-Split-Landing-Page) |
 | 8  | Form Input Wave         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/08-Form-Wave-Animation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/08-Form-Wave-Animation) |
 | 9  | Sound Board             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/09-Sound-Board/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/09-Sound-Board) |
+| 10  | Dad Jokes             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/10-Dad-Jokes/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/10-Dad-Jokes) |
+| 11  | Event KeyCodes            | [View Live](https://alireza-la.github.io/50_Projects_50_Days/11-Event-KeyCodes/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/11-Event-KeyCodes/) |
+| 12  | FAQ (Frequently Asked Questions)             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/12-FAQ/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/12-FAQ) |
+
 
 *(More projects will be added as they are completed.)*
 
