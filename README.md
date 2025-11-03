@@ -53,6 +53,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 11 | Event KeyCodes                  | [View Live](https://alireza-la.github.io/50_Projects_50_Days/11-Event-KeyCodes/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/11-Event-KeyCodes) |
 | 12 | FAQ (Frequently Asked Questions) | [View Live](https://alireza-la.github.io/50_Projects_50_Days/12-FAQ/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/12-FAQ) |
 | 13 | Random Choice Picker             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/13-Random-Choice-Picker/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/13-Random-Choice-Picker) |
+| 14 | Animated Navigation              | [View Live](https://alireza-la.github.io/50_Projects_50_Days/14-Animated-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/14-Animated-Navigation) |
 
 *(More projects will be added as they are completed.)*
 
