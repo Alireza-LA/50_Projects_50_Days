@@ -54,6 +54,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 12 | FAQ (Frequently Asked Questions) | [View Live](https://alireza-la.github.io/50_Projects_50_Days/12-FAQ/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/12-FAQ) |
 | 13 | Random Choice Picker             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/13-Random-Choice-Picker/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/13-Random-Choice-Picker) |
 | 14 | Animated Navigation              | [View Live](https://alireza-la.github.io/50_Projects_50_Days/14-Animated-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/14-Animated-Navigation) |
+| 15 | Increment Counter                | [View Live](https://alireza-la.github.io/50_Projects_50_Days/15-Increment-Counter/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/15-Increment-Counter) |
 
 *(More projects will be added as they are completed.)*
 
