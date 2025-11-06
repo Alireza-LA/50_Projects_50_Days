@@ -59,9 +59,9 @@ body {
 
 .clock {
     position: relative;
-    width: 210px;
-    height: 210px;
-    background-color: #364e558c;
+    width: 250px;
+    height: 250px;
+    background-color: #364e551b;
     border-radius: 50%;
     margin-bottom: 30px;
 }
