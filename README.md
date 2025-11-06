@@ -56,6 +56,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 14 | Animated Navigation              | [View Live](https://alireza-la.github.io/50_Projects_50_Days/14-Animated-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/14-Animated-Navigation) |
 | 15 | Increment Counter                | [View Live](https://alireza-la.github.io/50_Projects_50_Days/15-Increment-Counter/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/15-Increment-Counter) |
 | 16 | Drink Water Tracker     | [View Live](https://alireza-la.github.io/50_Projects_50_Days/16-Drinking-WaterTracker/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/16-Drinking-WaterTracker/) |
+| 17 | Movie App               | [View Live](https://alireza-la.github.io/50_Projects_50_Days/17-Movie-App/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/17-Movie-App/) |
 
 *(More projects will be added as they are completed.)*
 
