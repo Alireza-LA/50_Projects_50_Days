@@ -34,7 +34,17 @@ Users can navigate between full-screen background images using **left** and **ri
 ├── index.html
 ├── style.css
 ├── script.js
-└── readme.md
+├── readme.md
+│
+└── assets/
+    └── images/
+        ├── bridge_city_night_lights_urban_travel_visit-wallpaper-1440x1080.jpg
+        ├── european_city-wallpaper-1440x1080.jpg
+        ├── hollow_knight_video_game_hornet-wallpaper-1440x1080.jpg
+        ├── mirror_of_the_mountains_lake_reflections-wallpaper-1440x1080.jpg
+        ├── happy_thanksgiving_2024-wallpaper-1440x1080.jpg
+        ├── red_foliage_autumn-wallpaper-1440x1080.jpg
+        └── summer_travel_road_green_trees_adventure-wallpaper-1440x1080.jpg
 ```
 
 ---
