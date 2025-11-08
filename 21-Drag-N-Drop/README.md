@@ -34,6 +34,7 @@ Users can click and drag an image block into different containers, demonstrating
 ├── style.css
 ├── script.js
 └── readme.md
+```
 
 ---
 
@@ -51,4 +52,4 @@ Users can click and drag an image block into different containers, demonstrating
 • **On drag:** The box under the cursor highlights with a dashed border.  
 • **On drop:** The image moves smoothly into the selected container.  
 • **Responsive behavior:** On smaller screens, containers stack vertically for better usability.
-```
+
