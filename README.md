@@ -61,6 +61,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 19 | Theme Clock             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/19-Theme-Clock/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/19-Theme-Clock/) |
 | 20 | Button Ripple Effect             | [View Live](https://alireza-la.github.io/50_Projects_50_Days/20-Button_Ripple_Effect/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/20-Button_Ripple_Effect/) |
 | 21 | Drag N Drop           | [View Live](https://alireza-la.github.io/50_Projects_50_Days/21-Drag-N-Drop/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/21-Drag-N-Drop/) |
+| 22 | Drawing App           | [View Live](https://alireza-la.github.io/50_Projects_50_Days/22-Drawing-App/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/22-Drawing-App/) |
 
 
 *(More projects will be added as they are completed.)*
