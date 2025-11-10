@@ -63,6 +63,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 21 | Drag N Drop           | [View Live](https://alireza-la.github.io/50_Projects_50_Days/21-Drag-N-Drop/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/21-Drag-N-Drop/) |
 | 22 | Drawing App           | [View Live](https://alireza-la.github.io/50_Projects_50_Days/22-Drawing-App/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/22-Drawing-App/) |
 | 23 | Kinetic Loader          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/23-Kinetic-Loader/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/23-Kinetic-Loader/) |
+| 24 | Content Placeholder          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/24-Content-Placeholder/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/24-Content-Placeholder/) |
 
 
 *(More projects will be added as they are completed.)*
