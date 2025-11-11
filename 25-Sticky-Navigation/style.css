@@ -67,7 +67,7 @@ body {
 }
 
 .hero {
-    background-image: url('https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg');
+    background-image: url('./assets/images/cafe.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;

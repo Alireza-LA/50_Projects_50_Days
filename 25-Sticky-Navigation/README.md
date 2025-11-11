@@ -6,11 +6,11 @@ Built with pure **HTML**, **CSS**, and **JavaScript**, this project demonstrates
 ---
 
 ## 🧠 What I Learned
-- How to detect **scroll events** and track vertical position using `window.scrollY`  
-- Using **CSS transitions** for smooth color and layout changes  
-- Implementing **fixed positioning** for persistent navigation  
-- Dynamically toggling classes (`.active`) based on scroll conditions  
-- Designing responsive layouts that adapt to viewport changes
+- Detecting and responding to **scroll position** using `window.scrollY`
+- Applying **CSS transitions** for smooth layout and color changes
+- Managing **fixed navigation** and shadow effects dynamically
+- Creating **overlayed hero sections** with background images
+- Enhancing readability using contrast and layered design
 
 ---
 
@@ -28,28 +28,33 @@ Built with pure **HTML**, **CSS**, and **JavaScript**, this project demonstrates
 
 ## 📁 Folder Structure
 ```bash
-23_Sticky_Navigation/
+25_Sticky_Navigation/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+├── assets/
+│   └── images/
+│       └── cafe.jpg
 └── readme.md
+
 ```
 
 ---
 
 # 🧩 How It Works
-1. The navigation bar is initially transparent and positioned at the top using `position: fixed`.
-2. As the user scrolls beyond a certain threshold (`nav.offsetHeight + 300`), JavaScript adds an `.active` class.
-3. The `.active` class triggers CSS transitions — changing background color, text color, and padding.
-4. When the user scrolls back up, the `.active` class is removed, restoring the original style.
-5. This creates a **smooth, modern sticky navigation** effect commonly seen in landing pages.
+1. The `.nav` element is fixed to the top and starts with a dark (`#222`) background.
+2. When the user scrolls beyond a threshold (`nav.offsetHeight + 300`), an `.active` class is added via JavaScript.
+3. The `.active` state changes the navbar’s background to white, text to black, and applies a soft box shadow for depth.
+4. The `.hero` section displays a full-height background image with a dark overlay (`rgba(0, 0, 0, 0.5)`) for contrast.
+5. Smooth transitions are handled purely with CSS, ensuring performance-friendly visual updates.
+6. Scroll back to the top — the navbar reverts to its original dark transparent style.
 
 ---
 
 # 💡 Example Interaction
-• Page loads with a dark transparent navbar over a full-screen hero image.  
-• Scrolling down triggers the navbar to become solid white with darker text.  
-• Navigation links highlight on hover, and transitions remain smooth.  
-• The effect helps maintain visual context and ease of access while reading long pages.
-
+• The page opens with a **dark navbar** over a **full-screen hero image** of a café.  
+• As you scroll down, the navbar transitions to **white with dark text** and a subtle shadow.  
+• Navigation links smoothly highlight in **red (`#c0392b`)** on hover or active state.  
+• The hero text remains centered and readable due to the semi-transparent overlay.  
+• The transition between states feels natural, reinforcing the sticky, modern aesthetic.
