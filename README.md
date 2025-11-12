@@ -65,6 +65,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 23 | Kinetic Loader          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/23-Kinetic-Loader/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/23-Kinetic-Loader/) |
 | 24 | Content Placeholder          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/24-Content-Placeholder/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/24-Content-Placeholder/) |
 | 25 | Sticky Navigation Bar          | [View Live](https://alireza-la.github.io/50_Projects_50_Days/25-Sticky-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/25-Sticky-Navigation/) |
+| 26 | Vertical Slider         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/26-Vertical-Slider/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/26-Vertical-Slider/) |
 
 
 *(More projects will be added as they are completed.)*
