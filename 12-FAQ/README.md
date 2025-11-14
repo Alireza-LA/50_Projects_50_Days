@@ -29,7 +29,7 @@ Users can expand or collapse each question to reveal its answer, making it a gre
 
 ## 📁 Folder Structure
 ```bash
-08_FAQ/
+12_FAQ/
 │
 ├── index.html
 ├── style.css

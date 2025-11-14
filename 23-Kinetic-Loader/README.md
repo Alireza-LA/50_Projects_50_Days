@@ -28,7 +28,7 @@ This kinetic loader creates an elegant rotating illusion, perfect for displaying
 
 ## 📁 Folder Structure
 ```bash
-21_Kinetic_Loader/
+23_Kinetic_Loader/
 │
 ├── index.html
 ├── style.css

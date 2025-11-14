@@ -28,7 +28,7 @@ This project showcases how to synchronize motion between two opposite panels —
 
 ## 📁 Folder Structure
 ```bash
-18_Vertical_Slider/
+26_Vertical_Slider/
 │
 ├── index.html
 ├── style.css

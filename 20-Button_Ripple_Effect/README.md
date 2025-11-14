@@ -28,7 +28,7 @@ When a user clicks the button, a smooth expanding ripple appears at the click po
 
 ## 📁 Folder Structure
 ```bash
-19_Button_Ripple_Effect/
+20_Button_Ripple_Effect/
 │
 ├── index.html
 ├── style.css

@@ -27,7 +27,7 @@ Click on the small cups to mark how many glasses you’ve drunk — the big cup 
 
 ## 📁 Folder Structure
 ```bash
-10-Drink-Water/
+16-Drink-Water/
 │
 ├── index.html
 ├── style.css

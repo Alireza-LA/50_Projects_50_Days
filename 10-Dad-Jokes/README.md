@@ -28,7 +28,7 @@ Click the button to get a new joke every time — perfect for a quick laugh!
 
 ## 📁 Folder Structure
 ```bash
-07_Dad_Jokes/
+10_Dad_Jokes/
 │
 ├── index.html
 ├── style.css
