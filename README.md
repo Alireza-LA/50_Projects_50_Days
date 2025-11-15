@@ -68,6 +68,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 26 | Vertical Slider         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/26-Vertical-Slider/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/26-Vertical-Slider/) |
 | 27 | Toast Notification         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/27-Toast-Notification/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/27-Toast-Notification/) |
 | 28 | Github Profiles         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/28-Github-Profiles/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/28-Github-Profiles/) |
+| 29 | Github Profiles         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/29-Double-Click-Heart/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/29-Double-Click-Heart/) |
 
 
 *(More projects will be added as they are completed.)*
