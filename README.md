@@ -69,6 +69,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 27 | Toast Notification         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/27-Toast-Notification/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/27-Toast-Notification/) |
 | 28 | Github Profiles         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/28-Github-Profiles/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/28-Github-Profiles/) |
 | 29 | Double Click Heart         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/29-Double-Click-Heart/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/29-Double-Click-Heart/) |
+| 30 | Auto Text Effect         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/30-Auto-Text-Effect/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/30-Auto-Text-Effect/) |
 
 
 *(More projects will be added as they are completed.)*
