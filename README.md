@@ -71,6 +71,8 @@ Each project is visual and interactive — perfect for learning by doing.
 | 29 | Double Click Heart         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/29-Double-Click-Heart/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/29-Double-Click-Heart/) |
 | 30 | Auto Text Effect         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/30-Auto-Text-Effect/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/30-Auto-Text-Effect/) |
 | 31 | Password Generator         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/31-Password-Generator/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/31-Password-Generator/) |
+| 32 | Happy Life         | [View Live](https://alireza-la.github.io/50_Projects_50_Days/32-Happy-Life/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/32-Happy-Life/) |
+
 
 
 *(More projects will be added as they are completed.)*

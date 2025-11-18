@@ -29,7 +29,7 @@ Users can navigate between full-screen background images using **left** and **ri
 
 ## 📁 Folder Structure
 ```bash
-18_Background_Slider/
+18-Background-Slider/
 │
 ├── index.html
 ├── style.css

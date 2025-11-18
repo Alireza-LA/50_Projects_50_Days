@@ -30,7 +30,7 @@ Built using **HTML**, **CSS**, and **Vanilla JavaScript**, with a smooth animati
 
 ## 📁 Folder Structure
 ```bash
-29_Double_Click_Heart/
+29-Double-Click-Heart/
 │
 ├── index.html
 ├── style.css

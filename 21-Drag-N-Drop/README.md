@@ -28,7 +28,7 @@ Users can click and drag an image block into different containers, demonstrating
 
 ## 📁 Folder Structure
 ```bash
-21_Drag_N_Drop/
+21-Drag-N-Drop/
 │
 ├── index.html
 ├── style.css

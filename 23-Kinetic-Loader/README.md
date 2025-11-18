@@ -22,13 +22,13 @@ This kinetic loader creates an elegant rotating illusion, perfect for displaying
 ---
 
 ## 🚀 Live Demo
-👉 [Kinetic Loader - Live Demo](https://alireza-la.github.io/50_Projects_50_Days/21-Kinetic_Loader/)
+👉 [Kinetic Loader - Live Demo](https://alireza-la.github.io/50_Projects_50_Days/23-Kinetic-Loader/)
 
 ---
 
 ## 📁 Folder Structure
 ```bash
-23_Kinetic_Loader/
+23-Kinetic-Loader/
 │
 ├── index.html
 ├── style.css

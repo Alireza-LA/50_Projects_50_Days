@@ -22,13 +22,13 @@ When a user clicks the button, a smooth expanding ripple appears at the click po
 ---
 
 ## 🚀 Live Demo
-👉 [Button Ripple Effect - Live Demo](https://alireza-la.github.io/50_Projects_50_Days/20-Button_Ripple_Effect/)
+👉 [Button Ripple Effect - Live Demo](https://alireza-la.github.io/50_Projects_50_Days/20-Button-Ripple-Effect/)
 
 ---
 
 ## 📁 Folder Structure
 ```bash
-20_Button_Ripple_Effect/
+20-Button-Ripple-Effect/
 │
 ├── index.html
 ├── style.css

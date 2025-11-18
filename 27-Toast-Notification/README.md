@@ -28,7 +28,7 @@ This project demonstrates how to dynamically create, display, and remove short-l
 
 ## 📁 Folder Structure
 ```bash
-27_Toast_Notification/
+27-Toast-Notification/
 │
 ├── index.html
 ├── style.css

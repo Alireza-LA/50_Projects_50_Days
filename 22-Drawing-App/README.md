@@ -28,7 +28,7 @@ Users can draw freely, adjust brush size and color, and clear the canvas with on
 
 ## 📁 Folder Structure
 ```bash
-22_Drawing_App/
+22-Drawing-App/
 │
 ├── index.html
 ├── style.css

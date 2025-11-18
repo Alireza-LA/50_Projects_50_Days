@@ -28,7 +28,7 @@ This project simulates a content loading experience (like modern social media fe
 
 ## 📁 Folder Structure
 ```bash
-24_Content_Placeholder/
+24-Content-Placeholder/
 │
 ├── index.html
 ├── style.css

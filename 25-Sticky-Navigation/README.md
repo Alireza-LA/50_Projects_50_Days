@@ -28,7 +28,7 @@ Built with pure **HTML**, **CSS**, and **JavaScript**, this project demonstrates
 
 ## 📁 Folder Structure
 ```bash
-25_Sticky_Navigation/
+25-Sticky-Navigation/
 │
 ├── index.html
 ├── style.css

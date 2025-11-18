@@ -30,7 +30,7 @@ Built using **HTML**, **CSS**, and **Vanilla JavaScript**, featuring clipboard c
 
 ## 📁 Folder Structure
 ```bash
-31-Password_Generator/  
+31-Password-Generator/  
 │  
 ├── index.html  
 ├── style.css  

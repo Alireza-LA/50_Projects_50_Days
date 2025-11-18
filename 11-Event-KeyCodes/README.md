@@ -27,7 +27,7 @@ Perfect for learning about keyboard events in JavaScript or debugging input hand
 
 ## 📁 Folder Structure
 ```bash
-11_Event_KeyCodes/
+11-Event-KeyCodes/
 │
 ├── index.html
 ├── style.css

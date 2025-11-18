@@ -15,7 +15,8 @@ Click on a card to expand it and reveal more content with smooth transitions.
 🚀 Live Demo  
 👉 [View Project Live](https://alireza-la.github.io/50_Projects_50_Days/01-Expanding-Cards/)
 
-🗂️ Folder Structure  
+🗂️ Folder Structure
+```bash  
 01-Expanding-Cards/  
 │  
 ├── index.html  

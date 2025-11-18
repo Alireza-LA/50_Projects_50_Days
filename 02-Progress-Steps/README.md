@@ -15,7 +15,8 @@ Click the Next or Previous buttons to move through the steps and visualize progr
 🚀 Live Demo  
 👉 [View Project Live](https://alireza-la.github.io/50_Projects_50_Days/02-Progress-Steps/)
 
-🗂️ Folder Structure  
+🗂️ Folder Structure
+```bash  
 02-Progress-Steps/  
 │  
 ├── index.html  

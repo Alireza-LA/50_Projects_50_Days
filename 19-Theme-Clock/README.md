@@ -28,7 +28,7 @@ The clock updates in real time and smoothly animates the clock hands while displ
 
 ## 📁 Folder Structure
 ```bash
-19_Theme_Clock/
+19-Theme-Clock/
 │
 ├── index.html
 ├── style.css

@@ -31,7 +31,7 @@ Type a GitHub username → instantly fetch profile info, avatar, bio, stats, and
 
 ## 📁 Folder Structure
 ```bash
-28_Github_Profiles/
+28-Github-Profiles/
 │
 ├── index.html
 ├── style.css

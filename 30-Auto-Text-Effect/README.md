@@ -29,7 +29,7 @@ Built using **HTML**, **CSS**, and **Vanilla JavaScript**, with smooth timing lo
 
 ## 📁 Folder Structure
 ```bash
-30-Auto_Text_Effect/  
+30-Auto-Text-Effect/  
 │  
 ├── index.html  
 ├── style.css  
