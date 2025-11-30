@@ -79,6 +79,7 @@ Each project is visual and interactive — perfect for learning by doing.
 | 37 | Pokedex       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/37-Pokedex/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/37-Pokedex/) |
 | 38 | Mobile Tab Navigation       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/38-Mobile-Tab-Navigation/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/38-Mobile-Tab-Navigation/) |
 | 39 | Password Strength Background       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/39-Password-Strength-Background) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/39-Password-Strength-Background/) |
+| 40 | 3D Boxes Background       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/40-3D-Boxes-Background) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/40-3D-Boxes-Background/) |
 
 
 
