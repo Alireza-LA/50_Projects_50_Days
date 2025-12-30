@@ -81,6 +81,8 @@ Each project is visual and interactive — perfect for learning by doing.
 | 39 | Password Strength Background       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/39-Password-Strength-Background) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/39-Password-Strength-Background/) |
 | 40 | 3D Boxes Background       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/40-3D-Boxes-Background) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/40-3D-Boxes-Background/) |
 | 41 | Verify Account       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/41-Verify-Account) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/41-Verify-Account/) |
+| 42 | Live User Filter       | [View Live](https://alireza-la.github.io/50_Projects_50_Days/42-Live-User-Filter/) | [Source](https://github.com/Alireza-LA/50_Projects_50_Days/tree/main/42-Live-User-Filter/) |
+
 
 
 
